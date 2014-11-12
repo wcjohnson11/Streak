@@ -1,7 +1,7 @@
 {
   "name": "Streak",
   "description": "NPM module for the Streak API",
-  "repository": "git://github.com/https://github.com/wcjohnson11/Streak.git",
+  "repository": "git://github.com/wcjohnson11/Streak.git",
   "version": "0.0.0",
   "license": "MIT",
   "main": "lib/index.js",
