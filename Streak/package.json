@@ -5,7 +5,9 @@
   "version": "0.0.0",
   "license": "MIT",
   "main": "lib/index.js",
-  "dependencies": {},
+  "dependencies": {
+    "streakapi": "^0.1.0"
+  },
   "devDependencies": {
     "mocha": "1.x"
   }
